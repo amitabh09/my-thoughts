@@ -1,0 +1,21 @@
+.contDiv1
+{
+    width:50vw;
+}
+.contDiv2:hover
+{
+    box-shadow: 5px 5px grey;
+}
+.logNav
+{
+    color: aliceblue;
+    display: flex;
+    flex-direction: row-reverse;
+}
+.carousel-inner {
+    margin: auto;
+    height: 60vh;
+}
+.carousel-item img{
+    width: 100%;
+}
